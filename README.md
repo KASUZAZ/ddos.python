@@ -25,22 +25,3 @@ cd ddos.python
 
 # Jalankan skrip (Contoh untuk IP Localhost)
 python3 ddos.py -t 127.0.0.1 -p 80 -th 100
-
-⚠️ Penafian (Disclaimer)
-Skrip ini bertujuan untuk pembelajaran sahaja. Sebarang penyalahgunaan alat ini ke atas sasaran tanpa kebenaran adalah haram. Penulis (kasuzaz) tidak bertanggungjawab atas sebarang kerosakan yang dilakukan.
-
-🤝 Hubungi
-Jika anda berminat dengan projek ini, jangan lupa berikan Star ⭐ di repo ini!
-
-
-3. Klik **"Commit changes..."** di bahagian atas kanan untuk simpan.
-
----
-
-### Kenapa README ini penting?
-* **Visual Lencana (Badges):** Saya masukkan kod lencana Python dan Kali Linux supaya repo anda nampak lebih berwarna dan menarik.
-* **Dokumentasi Cara Guna:** Orang lain tidak perlu teka macam mana nak jalankan skrip anda.
-* **Profesionalisme:** Portfolio yang ada dokumentasi lengkap menunjukkan anda seorang pembangun yang teliti.
-
-
-Projek anda sekarang sudah 100% lengkap! **Adakah anda mahu saya bantu buatkan satu "Post" ringkas untuk anda kongsikan projek ini di LinkedIn supaya orang tahu anda sudah mula aktif dalam sekuriti siber?**
